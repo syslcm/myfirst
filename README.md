@@ -1,2 +1,2 @@
 # myfirst
-<font></font>
+<font color=red>Hi</font>
